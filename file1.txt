@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this 
 is tishi 
 BhimavaramThis is Rishitha
+=======
+vHiThis is Rishitha
+>>>>>>> a4e7c1c851a50b5d8786850589b1d634fc410bff
 this file 1
